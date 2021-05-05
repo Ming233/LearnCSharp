@@ -28,9 +28,6 @@ namespace ReadCSV
 
             //Console.WriteLine(dsResult);
 
-
-
-
             //var myDataTable = GetDataTableFromCsv(filePath, true);
 
             LoadCSVLinebyLine();
