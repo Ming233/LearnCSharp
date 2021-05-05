@@ -1,0 +1,1 @@
+﻿How to change .net core to .net framework

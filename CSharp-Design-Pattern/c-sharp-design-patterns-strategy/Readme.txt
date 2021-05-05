@@ -1,0 +1,1 @@
+﻿Link: https://app.pluralsight.com/library/courses/c-sharp-design-patterns-strategy/table-of-contents

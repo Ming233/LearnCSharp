@@ -1,0 +1,1 @@
+﻿Link: https://app.pluralsight.com/library/courses/csharp-clean-coding-principles/table-of-contents

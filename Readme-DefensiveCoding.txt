@@ -1,0 +1,1 @@
+link: https://app.pluralsight.com/library/courses/csharp-defensive-coding/table-of-contents

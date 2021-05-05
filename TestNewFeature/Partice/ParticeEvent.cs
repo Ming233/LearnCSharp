@@ -1,0 +1,6 @@
+﻿namespace TestNewFeature
+{
+    class ParticeEvent
+    {
+    }
+}
